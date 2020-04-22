@@ -50,3 +50,5 @@ result = plus(2 , 4)
 print(result)
 
 #print는 화면에 그저 보여주는 용도일뿐 Program은 Print를 신경쓰지 않으며 print로 나타난 값을 쓸 수 X
+"""1line의 a,b plus의 2,4는 positional argument(인자)임
+위치에따라 서로 할당됨"""
